@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proto-Bento</title>
-    <link>https://proto-bento.github.io/</link>
+    <link>https://bento-box.github.io/proto-bento/</link>
     <description>Recent content on Proto-Bento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Apr 2017 03:18:32 -0400</lastBuildDate>
     
-	<atom:link href="https://proto-bento.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bento-box.github.io/proto-bento/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opening Our Doors</title>
-      <link>https://proto-bento.github.io/post/opening-the-kitchen/</link>
+      <link>https://bento-box.github.io/proto-bento/post/opening-the-kitchen/</link>
       <pubDate>Fri, 21 Apr 2017 03:18:32 -0400</pubDate>
       
-      <guid>https://proto-bento.github.io/post/opening-the-kitchen/</guid>
+      <guid>https://bento-box.github.io/proto-bento/post/opening-the-kitchen/</guid>
       <description>Welcome to our Kitchen Bento-Box is made up of a handful of nerds, but as we open up to the public, we want to make a promise to our users: to keep you updated on what we&amp;rsquo;re cooking up behind the scenes at Bento-Box without too much confusing tech jargon. Bento-Box is a small organization made up of students of Computer Science, and we&amp;rsquo;re already having tons of fun working on our projects together.</description>
     </item>
     
